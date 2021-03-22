@@ -1,0 +1,5 @@
+{
+  "SUPABASE_KEY":
+    "mock-key123",
+  "SUPABASE_URL":"https://mock-url123.supabase.co"
+}
